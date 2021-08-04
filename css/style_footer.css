@@ -1,0 +1,138 @@
+/*==================================footer of Batas=========================*/
+.footer_head {
+   padding-top: 7%;
+   
+}
+/*===============foot_contact*/
+.foot_contact a {
+    color: #3f3f3f;
+    line-height: 32px;
+    font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Open Sans Condensed', sans-serif;*/
+    text-decoration: none;
+}
+
+.footer_list {
+    margin-left: 16%;
+    /* margin-bottom: 8%; */
+}
+.footer_list li {
+    float: left;
+    margin-left: 25px;
+    font-size: 18px;
+}
+.left_footer {
+    margin-top: 12%;
+}
+footer {
+    color: #898989;
+    font-size: 18px;
+    margin-left: 26%;
+    margin-top: 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*===============Contact_Information side*/
+.backgr {
+    background-color: #4eb84e;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+.content_sidebar h3 {
+    font-size: 40px;
+    margin-top: 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+.info_contactDetails {
+    /* margin-left: -49px; */
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 33px;
+    margin-left: -49px;
+}
+.info_contactDetails h3 {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    margin-top: 10%;
+
+}
+
+
+.info_office_footer ul {
+    margin-bottom: 5%;
+}
+/*================social_site*/
+.social_site {
+    margin-left: 7%;
+    margin-bottom: 10%;
+}
+i#filtersubmit {
+    font-size: 22px;
+    margin: 10px;
+    color: #fff;
+}
+.clearfix{
+    clear: both;
+}
+/*======================================media-query-starts===============================*/
+@media (min-width: 360px){
+    .info_contactDetails h3 {
+        /*padding-top: 25px;*/
+        font-size: 18px;
+    }
+}
+
+
+@media (min-width: 197px){
+    .content_sidebar  {
+        /*padding-top: 25px;*/
+        font-size: 14px;width: 100%;
+
+    }
+}
+
+
+@media (min-width: 325px){
+    .content_sidebar  h3{
+        /*padding-top: 25px;*/
+        font-size: 40px;
+        padding-top: 26px;
+        
+    }
+}
+@media (min-width: 325px){
+    .info_contactDetails  h3{
+        /*padding-top: 25px;*/
+        font-size: 18px;
+        margin-top: 20px;
+        
+    }
+}
+
+@media (min-width: 325px){
+    .info_contactDetails{
+        /*padding-top: 25px;*/
+        font-size: 18px;
+        
+        
+    }
+}
+@media (min-width: 325px){
+    .footer_About_us  {
+        /*padding-top: 25px;*/
+        font-size: 18px;
+       /* margin-top: 20px;*/
+        
+    }
+}
+
+@media (min-width: 572px){
+    .footer_list li {
+        /*padding-top: 25px;*/
+        font-size: 18px;
+       /* margin-top: 20px;*/
+        
+    }
+}

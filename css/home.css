@@ -1,0 +1,303 @@
+
+
+.conference-detail .title{    color: #485966;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;}
+
+.conference-detail .date{        color: #485966;
+    font-size: 20px;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.conference-detail .date:before{    content: '';
+    position: absolute;
+    width: 8px;
+    height: 3px;
+    background: #485966;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -4px;}
+
+
+.conference-detail p.detail{      color: #485966;
+    font-size: 16px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;}
+
+
+/*----------------------------- sun deep bhandari css ------------------------*/
+.responsive-slider-owl{
+    display: none;
+}
+.bootsrtap-tabs ul li a{
+    text-align: center;
+    text-transform: uppercase;
+    background: transparent !important;
+    color: #002C5B;
+    line-height: 2.5;
+    border: 1px solid #002C5B !important;
+    border-radius: 0 !important;
+    font-family: 'Conv_avenir-lt-std-55-roman-591e80319e338';
+    font-size: 18px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+    border: 0 !important;
+    background: #485963 !important;
+    color: #fff;
+
+}
+.nav-tabs{
+    border: 0 !important;
+}
+.bootsrtap-tabs {
+    padding: 80px 0 150px 0;
+}
+.tab-content > .active {
+    display: block;
+    text-align: center;
+}
+
+.responsiveGallery-item.active .conference-tile{    padding: 45px 30px 28px 30px;}
+
+.responsiveGallery-item.active {
+}
+
+@media only screen and (max-width : 1200px) {
+.responsiveGallery-wrapper{width: 70%;}
+}
+
+.conference-tile {
+    transition: all 0.4s ease-in-out;
+}
+.hm-caro-tbs .tabs{text-align: center;}
+.hm-caro-tbs .tab-link{
+        text-align: center;
+    text-transform: uppercase;
+    background: transparent !important;
+    color: #4a2783;
+    border: 1px solid #4a2783 !important;
+    border-radius: 0 !important;
+    font-family: 'Conv_avenir-lt-std-55-roman-591e80319e338';
+    font-size: 18px;
+    background: #f3f5f6;
+    display: inline-block;
+    cursor: pointer;
+    width: 300px;
+    margin: 0 3%;;
+}
+
+
+.hm-caro-tbs .tab-link.current{color: #002c5b;
+    border: 1px solid #002c5b !important;}
+
+
+
+.hm-caro-tbs{    padding-top: 60px;     padding-bottom: 30px;
+
+}    
+
+.type-con{text-transform: uppercase;}
+
+.conference-detail a{ color: #485966;
+    text-transform: uppercase;
+    font-size: 16px;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: 600;}
+.conference-detail a:before{content: '';
+    position: absolute;
+    width: 8px;
+    height: 3px;
+    background: #485966;
+    top: -10px;
+    left: 50%;
+    margin-left: -4px; }   
+
+
+
+
+@media only screen and (max-width : 1200px) {
+
+.hm-caro-tbs .tab-link {
+    width: 281px;
+    margin: 0 1%;
+}
+
+.carousel-3d-container[data-v-c06c963c] {
+    padding-bottom: 70px;
+
+}
+.carousel-3d-controls[data-v-43e93932] {
+    top: 86% !important;
+    width: 110px !important;
+    margin: auto !important;
+    right: 0 !important;
+}
+}
+
+
+
+@media only screen and (max-width : 1000px) {
+
+.hm-caro-tbs .tab-link {
+    width: 70%;
+    margin: 10px 0;
+}
+}
+@media only screen and (max-width : 660px) {
+
+.conference-detail p.detail {
+    width: 90%;;
+}
+}
+
+
+
+body{
+    overflow-x:hidden !important; 
+}
+
+
+.sm-caro-tbs .tabs{text-align: center;}
+.sm-caro-tbs .tab-link{
+        text-align: center;
+    text-transform: uppercase;
+    background: transparent !important;
+    color: #4a2783;
+    border: 1px solid #4a2783 !important;
+    border-radius: 0 !important;
+    font-family: 'Conv_avenir-lt-std-55-roman-591e80319e338';
+    font-size: 18px;
+    background: #f3f5f6;
+    display: inline-block;
+    cursor: pointer;
+    width: 300px;
+    margin: 0 3%;;
+}
+
+
+.sm-caro-tbs .tab-link.current{color: #002c5b;
+    border: 1px solid #002c5b !important;}
+
+.sm-caro-tbs .conference-detail{    position: inherit !important;
+    float: left;
+    width: 100%;
+    margin-left: 0;}
+
+.owl-next, .owl-prev{background: none !important;}
+
+
+.sm-caro-tbs .conference-detail .date{       color: #485966;
+    font-size: 18px;
+    position: relative;
+    margin-top: 11px;
+    margin-bottom: 26px;}
+
+.sm-caro-tbs .conference-detail .date:before{content: ''; position: absolute; width: 6px;
+    height: 2px;
+    background: #485966;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -3px;}
+
+
+.sm-caro-tbs .conference-detail p.detail{        color: #485966;
+    font-size: 16px;
+    width: 88%;
+    margin: auto;
+    margin-top: 20px;}
+
+
+.sm-caro-tbs .conference-detail a{    color: #485966;
+    text-transform: uppercase;
+    font-size: 16px;
+    position: relative;
+    margin-top: 30px;
+    display: inline-block;}
+
+.sm-caro-tbs .conference-detail .title {
+    color: #485966;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+
+
+
+.sm-caro-tbs .tabs {
+    margin: 57px 0;
+}
+
+.sm-caro-tbs .conference-tile {
+    padding: 75px 30px;
+    background: #520237;
+    color: #fff;
+    margin-bottom: 20px;
+    float: left;
+    width: 100%;
+}
+
+.sm-caro-tbs .conference {
+    text-align: center;
+    transition: all 0.6s ease-in-out;
+    float: left;
+    width: 100%;
+    padding: 20px;
+}
+
+
+
+
+.sm-caro-tbs{    padding-top: 60px;
+
+
+ /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f8f9f9), to(#fff));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #fff, #f8f9f9);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, #fff, #f8f9f9);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(top, #fff, #f8f9f9);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, #fff, #f8f9f9);
+
+}    
+
+
+.sm-caro-tbs{display: none;}
+
+
+.carousel-3d-slide{border: none !important;}
+
+.slider-loader{    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+    background: #fff;}
+
+.hero-sm .prev{ width: 37px; height: 37px; background: url('../images/arrow-left.png') no-repeat; }
+.hero-sm .next{ width: 37px; height: 37px; background: url('../images/arrow-right.png') no-repeat; }
+
+.hero-sm .prev span,.hero-sm .next span{display: none !important;}
+
+
+
+.next[data-v-43e93932] {
+    right: -14px !important;
+}
+
+
+
+

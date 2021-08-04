@@ -1,0 +1,28 @@
+
+/*==Bapa resort Details==== */
+	.bapa_details_content {
+    margin: 5% 10%;
+    /* padding: 0% 7%; */
+	}
+	.bapa_details_content article {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 5%;
+	}
+	.bata_resort_img img {
+    margin-left: 0%;
+	}
+	.bata_resort_img h3 {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #54b549;
+	}
+
+	 @media screen and  (max-width:990px) {
+                    .bata_resort_img img {
+				    width: 49%;
+				    margin-left: 20%;
+				    margin-bottom: 5%;
+						}
+                }
+                
